@@ -1,0 +1,22 @@
+[
+    {
+    "id":1,
+    "name":"Kiran",
+    "place":"Mumbai"  
+    },
+    {
+      "id":2,
+      "name":"Pratap",
+      "place":"Chennai"  
+      },
+      {
+        "id":3,
+        "name":"Vikram",
+        "place":"Hyderabd"  
+        },
+        {
+          "id":4,
+          "name":"Sravya",
+          "place":"Vizag"  
+          }
+]
